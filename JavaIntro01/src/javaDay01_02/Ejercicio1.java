@@ -1,5 +1,5 @@
 
-package javaDay01;
+package javaDay01_02;
 
 import java.util.Scanner;
 

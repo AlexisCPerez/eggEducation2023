@@ -1,5 +1,5 @@
 
-package javaDay01;
+package javaDay01_02;
 
 
 public class Practica {
