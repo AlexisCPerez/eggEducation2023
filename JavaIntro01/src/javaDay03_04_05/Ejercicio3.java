@@ -3,7 +3,7 @@
 //por pantalla que diga “CORRECTO”, en caso contrario, 
 //se deberá imprimir “INCORRECTO”. Nota: investigar la funcion Lenght() en Java.
 
-package javaDay03;
+package javaDay03_04_05;
 
 import java.util.Scanner;
 

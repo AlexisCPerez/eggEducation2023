@@ -6,7 +6,7 @@
 //se debe mostrar el siguiente mensaje de confirmación: ¿Está seguro que desea salir del programa
 //(S/N)? Si el usuario selecciona el carácter ‘S’ se sale del programa, caso contrario se vuelve
 //a mostrar el menú.
-package javaDay03;
+package javaDay03_04_05;
 
 import java.util.Scanner;
 

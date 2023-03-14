@@ -1,5 +1,5 @@
 //Crear un programa que dado un número determine si es par o impar.
-package javaDay03;
+package javaDay03_04_05;
 
 import java.util.Scanner;
 
